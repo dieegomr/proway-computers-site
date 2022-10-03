@@ -1,27 +1,17 @@
-# ProwayComputersSite
+<h1>Proway Computers Site</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+<p>Projeto realizado durante o curso de Angular da trilha JAVA do programa <a href="https://startcapgemini.com.br">Start da empresa Capgemini</a>.
 
-## Development server
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h3>Amostra:</h3>
+<p>Você pode acessar o site clicando <a href="https://dieegomr.github.io/proway-computers/">aqui!</a></p>
+<img src="src/assets/proway-site.gif" alt="Garota de casaco" width="700" height="500">
 
-## Code scaffolding
+<h3>Como executar esse site no seu computador</h3>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p>1) Clonar o repositório </p>
+<p> $ git clone https://github.com/dieegomr/Gess-my-number-game.git</p>
+<p>2) Abra o terminal na página do projeto</p>
+<p>3) Execute o comando: ng serve --open</p>
+<p>4) Uma página abrirá no seu navegador</p>
