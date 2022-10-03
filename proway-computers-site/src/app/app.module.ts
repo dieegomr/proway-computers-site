@@ -8,6 +8,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { NaoEncontradaComponent } from './nao-encontrada/nao-encontrada.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { BarraPesquisaComponent } from './barra-pesquisa/barra-pesquisa.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -15,12 +17,14 @@ import { MatSnackBarModule } from '@angular/material/snack-bar';
     HeaderComponent,
     FooterComponent,
     NaoEncontradaComponent,
+    BarraPesquisaComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     MatSnackBarModule,
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
