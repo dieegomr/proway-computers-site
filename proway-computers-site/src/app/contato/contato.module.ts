@@ -3,15 +3,17 @@ import { CommonModule } from '@angular/common';
 
 import { ContatoRoutingModule } from './contato-routing.module';
 import { ContatoComponent } from './contato.component';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { NgxMaskModule } from 'ngx-mask';
 
 @NgModule({
-  declarations: [
-    ContatoComponent
-  ],
+  declarations: [ContatoComponent],
   imports: [
     CommonModule,
-    ContatoRoutingModule
-  ]
+    ContatoRoutingModule,
+    ReactiveFormsModule,
+    FormsModule,
+    NgxMaskModule.forRoot(),
+  ],
 })
-export class ContatoModule { }
+export class ContatoModule {}
