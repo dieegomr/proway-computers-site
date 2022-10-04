@@ -11,7 +11,7 @@
 <h3>Como executar esse site no seu computador</h3>
 
 <p>1) Clonar o repositório </p>
-<p> $ git clone https://github.com/dieegomr/Gess-my-number-game.git</p>
+<p> $ git clone https://github.com/dieegomr/proway-computers-site.git</p>
 <p>2) Abra o terminal na página do projeto</p>
 <p>3) Execute o comando: ng serve --open</p>
 <p>4) Uma página abrirá no seu navegador</p>
