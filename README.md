@@ -5,7 +5,7 @@
 </p>
 
 <h3>Amostra:</h3>
-<p>Você pode acessar o site clicando <a href="https://dieegomr.github.io/proway-computers/">aqui!</a></p>
+<p>Você pode acessar o site clicando <a href="https://dieegomr.github.io/proway-computers-site/">aqui!</a></p>
 <img src="src/assets/proway-site.gif" alt="Garota de casaco" width="700" height="500">
 
 <h3>Como executar esse site no seu computador</h3>
